@@ -1,6 +1,3 @@
-# uas
-Semester 5
+# PhpMySQLi-MarketPlace
 
-MARKETPLACE
-
-Toko Online PHP dan MySQLi
+UAS Semester 5
